@@ -27,8 +27,8 @@ Adds [Emmet](https://emmet.io/) abbreviations and shortcuts to the textareas in 
 ## Install
 
 1. Download `wp-emmet.zip` from the [latest release](https://github.com/HackIndex-io/wp-emmet/releases/latest).
-2. Deactivate and delete the original plugin. Your settings are kept.
-3. Upload the zip in **Plugins > Add New > Upload Plugin** and activate it.
+2. Upload the zip in **Plugins > Add New > Upload Plugin** and choose **Replace current with uploaded**. Your settings are kept.
+3. Don't delete the original plugin first: deleting a plugin can run its uninstall and remove its settings.
 
 WordPress does not update this fork automatically. Watch this repo's releases to get new security fixes.
 
